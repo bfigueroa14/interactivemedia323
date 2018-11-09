@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+	z-index: -2;
+}
+#body {
+	width: 250px;
+	height: 150px;
+	background-color: grey;
+	border-radius: 100px / 100px;
+	position: fixed;
+	margin-left: 500px;
+	margin-top: 251px;
+	z-index: -1;
+	transform: rotate(20deg);
+}
+
+#scroll {
+	 width: 15px;
+	 height: 15px;
+	 background: black;
+	 border-radius: 50%;
+	 position: fixed;
+	 margin-left: 25px;
+	 margin-top: 70px;
+	 z-index: +1;
+}
+
+
+#cord {
+	background-color: black;
+	width: 600px;
+	height: 15px;
+	border-radius: 15px /15px;
+	z-index: -2;
+	margin-top: 70px;
+	margin-left: -596px;
+	
+		
+ }
+#pad{
+	background-color: darkred;
+    height: 400px;
+    width: 450px;
+    border-radius: 100px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -3;
+}   
+
+
+   
