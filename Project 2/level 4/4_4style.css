@@ -1,0 +1,58 @@
+body {
+	height: 100%;
+	width: 300%;
+	background-color: white;
+}
+
+#all {
+	line-height: 1.8;
+	margin-top: 75px;
+	margin-left: 25%;
+	font-family: helvetica;
+	letter-spacing: 50px;
+	
+}
+#if {
+	font-size: 10px;
+	letter-spacing: 2px;
+}
+#two {
+	font-weight: bold;
+	letter-spacing: 5px;
+}
+#three{
+	
+	letter-spacing: 25px;
+}
+#five {
+	
+	letter-spacing: 25px;
+}
+#toxic {
+	
+	margin-left: -15%;
+	font-size: 50px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+#honey {
+	text-align: center;
+	font-size: 75px;
+	font-weight: bold;
+	letter-spacing: 5px;
+}
+#ten {
+	
+	letter-spacing: 5px;
+}
+#twelve {
+	
+	letter-spacing: 5px;
+}
+#six{
+	
+}
+#nine {
+	
+}

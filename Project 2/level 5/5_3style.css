@@ -1,0 +1,48 @@
+body {
+	
+	background-image: linear-gradient(black, grey, black);
+	line-height: 50px;
+}
+
+#all {
+	letter-spacing: 50px;
+	writing-mode: vertical-rl;
+  	text-orientation: upright;
+}
+#if {
+	text-orientation: sideways;
+	letter-spacing: 2px;
+}
+#two {
+	letter-spacing: 30px;
+}
+#three{
+	text-orientation: sideways;
+	letter-spacing: 25px;
+}
+#five {
+	text-orientation: sideways;
+	letter-spacing: 25px;
+}
+#toxic {
+	text-orientation: sideways;
+	letter-spacing: 5px;
+}
+#eight{
+	text-orientation: sideways;
+	letter-spacing: 5px;
+}
+#ten {
+	text-orientation: sideways;
+	letter-spacing: 5px;
+}
+#twelve {
+	text-orientation: sideways;
+	letter-spacing: 5px;
+}
+#six{
+	text-orientation: sideways;
+}
+#nine {
+	text-orientation: sideways;
+}

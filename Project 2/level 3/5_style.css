@@ -1,0 +1,57 @@
+p {
+	margin: 10px;
+	display: block;
+}
+
+#one {
+
+	float: left;
+	color: white;
+	background: black;
+	width: 20%;
+	margin: 5%;
+	padding: 5%;
+	height: 10%;
+
+}
+
+#two {
+	position: relative;
+	padding-right: 25%;
+	padding-left: 40%;
+}
+
+#five {
+	float: left;
+	color: white;
+	background: black;
+	width: 20%;
+	margin: 5%;
+	padding: 5%;
+	height: 10%;
+
+}
+#eight {
+	margin-left: 10%;
+}
+
+
+#nine {
+	float: left;
+	color: white;
+	background: black;
+	width: 20%;
+	margin: 5%;
+	padding: 5%;
+	height: 10%;
+}
+#last {
+	float: left;
+	color: white;
+	background: black;
+	width: 20%;
+	margin: 5%;
+	padding: 5%;
+	height: 10%;
+}
+}

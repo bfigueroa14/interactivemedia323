@@ -1,0 +1,8 @@
+body {
+	background-color: lightgrey;
+}
+
+p {
+	writing-mode: vertical-rl;
+  	text-orientation: sideways;
+}
