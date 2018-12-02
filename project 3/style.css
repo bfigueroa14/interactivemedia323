@@ -1,0 +1,125 @@
+body {
+	background-color: black;
+}
+
+p {
+	color: white;
+	font-family: minion pro;
+	font-size: 25px;
+	margin-left: 25%;
+	margin-top: 20%;
+
+}
+
+.one {
+	position: relative;
+}
+
+.two {
+	margin-top: 5px;
+	margin-left: 26.5%;
+	position: absolute;
+}
+a { 
+	color: cyan; 
+	text-decoration: none;
+}
+
+.anything {
+	z-index: -1;
+	color: black;
+	width: 1200px;
+	height: 1200px;
+}
+
+.black {
+	color: black;
+}
+
+.big {
+	font-style: 70px;
+}
+
+.small {
+	font-size: 15px;
+}
+
+.six {
+	margin-top: 0px;
+}
+
+.seven {
+	margin-top: 20%;
+	margin-left: 35%;
+}
+.five {
+	margin-left: 55%;
+}
+
+.eight {
+	font-size: 70px;
+	margin-top: 0px;
+	position: absolute;
+}
+
+.nine {
+	font-size: 70px;
+	margin-top: 20%;
+	margin-left: 35%;
+}
+
+.ten {
+	font-size: 70px;
+	margin-left: 55%;
+}
+.sixb {
+	margin-top: 0px;
+	position: fixed;
+}
+
+.sevenb {
+	margin-top: 20%;
+	margin-left: 35%;
+	position: fixed;
+}
+.fiveb {
+	margin-left: 55%;
+	position: fixed;
+}
+.sixa {
+	margin-left: 15%
+	margin-top: 0px;
+	position: fixed;
+}
+
+.sevena {
+	margin-top: 20%;
+	margin-left: 55%;
+	position: fixed;
+}
+.fivea {
+	margin-left: 25%;
+	position: fixed;
+}
+
+.eighta {
+	font-size: 700px;
+	margin-top: 10px;
+	position: absolute;
+}
+
+.ninea {
+	font-size: 300px;
+	margin-top: 20%;
+	margin-left: 35%;
+}
+
+.tena {
+	font-size: 300px;
+	margin-left: 55%;
+}
+
+.huge {
+	font-size: 600px;
+
+}
