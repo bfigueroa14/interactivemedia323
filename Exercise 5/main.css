@@ -1,0 +1,53 @@
+/* Base */
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background: url('images/one.jpg');
+}
+
+h1 {
+	font-size: 110px;
+}
+
+
+
+/* Media Queries */
+
+@media screen and (max-width: 1024px) {
+
+  body { background: url('images/one.jpg'); }
+  h1 { font-size: 70px; }
+
+}
+
+@media screen and (max-width: 768px) {
+
+  body { background: url('images/five.jpg'); }
+  h1 { font-size: 50px; }
+
+}
+
+@media screen and (max-width: 600px) {
+
+  body { background: url('images/three.jpg'); }
+  h1 { font-size: 20px; }
+
+}
+
+@media screen and (max-width: 480px) {
+  
+  body { background: url('images/four.jpg'); }
+  h1 { font-size: 10px; }
+  div { display: block; }
+
+}
+
+@media screen and (max-width: 320px) {
+
+  body { background: url('images/five.jpg');}
+  h1 { font-size: 8px; }
+
+}
